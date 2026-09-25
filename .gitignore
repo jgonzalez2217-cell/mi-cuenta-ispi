@@ -1,0 +1,10 @@
+﻿node_modules
+.next
+.env.local
+.env*.local
+.DS_Store
+*.pem
+logs
+*.log
+npm-debug.log*
+*.exe
